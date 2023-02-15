@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kittyproject/static/css/main.93275a0f.css",
+    "main.js": "/kittyproject/static/js/main.e7b92207.js",
+    "static/media/kitty.png": "/kittyproject/static/media/kitty.b17cbd2eceb690d368a7.png",
+    "static/media/logoKitty.png": "/kittyproject/static/media/logoKitty.2b5644261cfcc5f78f5b.png",
+    "static/media/PurrLove.svg": "/kittyproject/static/media/PurrLove.1de2991fff44709c9d784c33c72abc72.svg",
+    "static/media/people.png": "/kittyproject/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/kittyproject/index.html",
+    "main.93275a0f.css.map": "/kittyproject/static/css/main.93275a0f.css.map",
+    "main.e7b92207.js.map": "/kittyproject/static/js/main.e7b92207.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93275a0f.css",
+    "static/js/main.e7b92207.js"
+  ]
+}
